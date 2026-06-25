@@ -1,0 +1,6 @@
+{
+  "name": "Wall-E Project Account Guide",
+  "description": "Trang web hướng dẫn từng bước đăng ký 4 tài khoản công nghệ (Google AI Studio, GitHub, Vercel, Onshape) cho dự án Robotics Wall-E dành cho trẻ em từ 10 tuổi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
